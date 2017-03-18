@@ -98,7 +98,7 @@ exports.selectionSort = function (array) {
       }
       //if the minimum isn't in the position, swap it
       if (i != min){
-        array.swap(i, min);
+        swap(array, i, min);
       }
     }
   return array;
@@ -171,7 +171,7 @@ exports.shellSort = function (array) {
   while( h > 0 ){
     for ( var i = h; i < length; i++){
       for ( var j = i; j > 0 && array[j] < array[j-h]; j-=h){
-          array.swap(j, j-h);
+        swap(array, j, j-h);
       }
     }
     //decreasing h
