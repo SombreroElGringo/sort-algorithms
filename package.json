@@ -1,0 +1,33 @@
+{
+  "name": "sort-algorithms",
+  "version": "1.0.0",
+  "description": "Sort-algorithms regroup all the popular sorting algorithms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "keywords": [
+    "package",
+    "sorting",
+    "sort",
+    "bubble",
+    "selection",
+    "insertion",
+    "radix",
+    "bucket",
+    "counting",
+    "heap",
+    "merge",
+    "shell",
+    "comb",
+    "quick",
+    "algorithm",
+    "algorithms",
+    "sort-algorithms"
+  ],
+  "author": "SombreroElGringo <sombreroelgringo@gmail.com> (https://github.com/SombreroElGringo)",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^1.4.1"
+  }
+}
