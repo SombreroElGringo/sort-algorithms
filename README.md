@@ -1,5 +1,14 @@
 # sort-algorithms
+
 Sort-algorithms regroup all the popular sorting algorithms.
+
+[![NPM](https://nodei.co/npm/sort-algorithms.png)](https://npmjs.org/package/sort-algorithms)
+
+## Installation
+
+```sh
+$ npm install sort-algorithms
+```
 
 ## 1	Simple sorts
  - ## 1.1	Insertion sort
