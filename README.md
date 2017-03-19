@@ -2,7 +2,7 @@
 
 Sort-algorithms regroup all the popular sorting algorithms.
 
-[![NPM](https://nodei.co/npm/sort-algorithms.png)](https://npmjs.org/package/sort-algorithms)
+[![NPM](https://nodei.co/npm/sort-algorithms.png?downloads=true&downloadRank=true&stars=true)](https://npmjs.org/package/sort-algorithms) 
 [![Build Status](https://travis-ci.org/SombreroElGringo/sort-algorithms.svg?branch=master)](https://travis-ci.org/SombreroElGringo/sort-algorithms)
 
 ## Installation
